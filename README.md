@@ -1,0 +1,1 @@
+Made this with GPT to replace colors on a site so I dont get blinded. By default replaces most backgroundish stuff with grey, when you click the extension button it lets you choose a color for the backgroundy stuff and also for text then reloads the site so it takes effect. Also has an exclusion list and a button to add/remove your current site to that list. 
